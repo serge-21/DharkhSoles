@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=NPCJoe
+comment0.text=\n\ this\ class\ is\ responsible\ for\ the\ behaviour\ of\ NPC\ Joe.\n\n\ @author\ Syraj\ Alkhalil\n\ @version\ 28.11.2021\n
+comment1.params=name\ position
+comment1.target=NPCJoe(java.lang.String,\ Room)
+comment1.text=\n\ making\ an\ NPCJoe\ object\ is\ the\ same\ as\n\ making\ a\ People\ object.\n
+comment2.params=
+comment2.target=void\ talk()
+comment2.text=\n\ making\ joe\ "talk"\ to\ the\ player\n\ nothing\ fancy\ just\ a\ bunch\ of\ print\ statements.\n
+comment3.params=
+comment3.target=void\ attacked()
+comment3.text=\n\ joe\ is\ a\ weak\ character\ therefore\ if\ he\ gets\ attacked\n\ he\ loses\ 80hp\ points.\n
+comment4.params=
+comment4.target=boolean\ isDead()
+comment4.text=\n\ check\ if\ joe\ is\ dead\ or\ not.\ if\ he\ is\ then\n\ check\ if\ he\ has\ any\ items.\ (maybe\ the\ player\ gave\ him\ some)\n\ if\ so\ then\ the\ player\ can\ loot\ joe.\n\ @return\ if\ joe\ is\ dead\ or\ not.\n
+comment5.params=
+comment5.target=Room\ peek()
+comment5.text=\n\ @return\ the\ room\ at\ the\ top\ of\ the\ stack\ of\ rooms\ that\ joe\ visited.\n
+comment6.params=
+comment6.target=void\ moveRandomly()
+comment6.text=\n\ make\ joe\ move\ randomly.\n\ by\ getting\ his\ current\ position.\ pick\ an\ exit\ at\ random.\n\ and\ move\ joe\ to\ the\ exit\ chosen.\n
+numComments=7

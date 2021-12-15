@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Items
+comment0.text=\n\ This\ class\ is\ responsible\ for\n\ representing\ all\ the\ items\ in\ the\ game.\n\n\ @author\ Syraj\ Alkahlil\n\ @version\ 28.11.2021\n
+comment1.params=name\ description\ weight
+comment1.target=Items(java.lang.String,\ java.lang.String,\ int)
+comment1.text=\n\ set\ the\ item\ a\ name,\ a\ description,\ and\ a\ weight.\n
+comment2.params=
+comment2.target=int\ getWeight()
+comment2.text=\n\ @return\ the\ item's\ weight\n
+comment3.params=
+comment3.target=java.lang.String\ getDescription()
+comment3.text=\n\ @return\ the\ item's\ description\n
+comment4.params=
+comment4.target=java.lang.String\ getItemName()
+comment4.text=\n\ @return\ the\ item's\ name\n
+numComments=5

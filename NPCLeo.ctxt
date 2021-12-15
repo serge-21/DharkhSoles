@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=NPCLeo
+comment0.text=\n\ this\ class\ is\ responsible\ for\ the\ behaviour\ of\ NPC\ Joe.\n
+comment1.params=name\ position
+comment1.target=NPCLeo(java.lang.String,\ Room)
+comment1.text=\n\ making\ an\ NPCLeo\ object\ is\ the\ same\ as\n\ making\ a\ People\ object.\n
+comment2.params=
+comment2.target=void\ talk()
+comment2.text=\n\ making\ Leo\ "talk"\ to\ the\ player\n\ nothing\ fancy\ just\ a\ bunch\ of\ print\ statements.\n
+comment3.params=
+comment3.target=boolean\ isDead()
+comment3.text=\n\ checks\ if\ a\ player\ or\ a\ character\ is\ dead\n\ if\ they\ are\ then\ we\ check\ the\ inventory,\n\ if\ they\ have\ anything\ in\ the\ inventory\ then\ they\ drop\n\ the\ items\ in\ the\ inventory.\n\n\ @return\ if\ leo\ is\ dead\n
+comment4.params=
+comment4.target=void\ dropAll()
+comment4.text=\n\ drop\ all\ the\ items\ that\ leo\ has\n
+comment5.params=newPosition
+comment5.target=void\ changePosition(Room)
+comment5.text=\n\ change\ leonardo's\ position\ and\ add\ him\ to\ the\ new\ room.\n\ @param\ \ newPosition\ \ the\ position\ we\ wish\ to\ go\ to.\n
+numComments=6

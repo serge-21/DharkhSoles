@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Mother
+comment0.text=\n\ \ this\ class\ is\ responsible\ for\ the\ mother\ character\ in\ the\ game\n\ \ This\ class\ extends\ the\ class\ people.\n\ \ the\ mother\ in\ the\ game\ can\ attack\ the\ player\ IFF\ the\ player\ attacks\ her\ first\n\ \ if\ the\ player\ dies\ then\ they\ lose.\n\n\ @author\ Syraj\ Alkhalil\n\ @version\ 28.11.2021\n
+comment1.params=name\ position
+comment1.target=Mother(java.lang.String,\ Room)
+comment1.text=\n\ making\ a\ mother\ object\ is\ the\ same\ as\n\ making\ a\ People\ object.\n
+comment2.params=
+comment2.target=void\ talk()
+comment2.text=\n\ making\ the\ mother\ "talk"\ to\ the\ player\n\ nothing\ fancy\ just\ a\ bunch\ of\ print\ statements.\n
+comment3.params=
+comment3.target=void\ attacked()
+comment3.text=\n\ the\ mother\ can't\ be\ attacked\ by\ the\ player.\n\ so\ this\ class\ is\ being\ overridden\n
+numComments=4
